@@ -2,11 +2,10 @@
 
 selenium + python 
 
-This is using for submitting australia Vetassess application automatically.
-System could quckly automatic choose Priority options.
 
-Steps as below:
-1. Check if priority option is enable;
-2. Choose the priority option;
-3. Automatic input captcha;
-4. Submit application.
+This system is designed for the automated submission of Australia's Vetassess applications. It efficiently selects the appropriate priority options automatically. The process involves the following steps:
+
+Verify if the priority option is available.
+Automatically select the priority option.
+Automatically input the captcha.
+Submit the application.
