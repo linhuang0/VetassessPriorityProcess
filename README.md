@@ -1,14 +1,11 @@
-# VetassessPriorityProcess Automatic submission
+This Python application, built with Selenium, streamlines the submission of Australia's Vetassess applications by automating critical steps, including the selection of priority options and captcha recognition. The process unfolds as follows:
 
-selenium + python 
+1.Verification of Priority Option: The system checks if the priority option is available.
 
+2.Automatic Priority Selection: It automatically selects the appropriate priority option.
 
-This system is designed for the automated submission of Australia's Vetassess applications. It efficiently selects the appropriate priority options automatically. The process involves the following steps:
+3.Captcha Recognition: The application employs OCR (Optical Character Recognition) to automatically decipher and input captchas.
 
-1.Verify if the priority option is available.
+4.Effortless Form Submission: It submits the application by auto-filling the required information.
 
-2.Automatically select the priority option.
-
-3.Automatically input the captcha.
-
-4.Submit the application.
+This application serves individuals seeking priority processing services for their AU Vetassess applications, greatly simplifying the submission process.
